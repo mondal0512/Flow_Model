@@ -1,0 +1,10 @@
+C:\darknet\new_model\images\R1.jpg
+C:\darknet\new_model\images\R10.jpg
+C:\darknet\new_model\images\R11.jpg
+C:\darknet\new_model\images\R12.jpg
+C:\darknet\new_model\images\R13.jpg
+C:\darknet\new_model\images\R14.jpg
+C:\darknet\new_model\images\R15.jpg
+C:\darknet\new_model\images\R16.jpg
+C:\darknet\new_model\images\R17.jpg
+C:\darknet\new_model\images\R18.jpg
